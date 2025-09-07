@@ -3,7 +3,7 @@
 [![Download CV](https://img.shields.io/badge/Download%20CV-purple?style=for-the-badge&logo=readthedocs)](./docs/Nyabwari_Bosire_cv.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/Itsbosire)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Email](https://img.icons8.com/ios-glyphs/30/000000/new-post.png)](mailto:bosirebrian499@gmail.com)&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;[![phone](https://img.shields.io/badge/Phone-+254711308884-lightgrey?style=flat-square&logo=call)](tel:+254711308884)
 
 ---
-**Biotechnologitst | Bioinformatician | Molecular Biologist** &nbsp;
+**Biotechnologitst | Bioinformatician | Molecular Biologist** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 I am a passionate biotechnologist, molecular biologist, and bioinformatician with strong enthusiasm for bridging lab science and computational analysis. My work involves applying molecular tools, exploring genetic mechanisms, and using data-driven approaches to solve challenges in health, agriculture, and biotechnology.
 
 ## Research Interests
