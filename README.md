@@ -23,7 +23,7 @@ I am a passionate biotechnologist, molecular biologist, and bioinformatician wit
 **Cholera Epidemiology Project**
 ![Overview](./assets/Cholera_project_overview.png)
 Designed a cholera epidemiology surveillance dashboard using R to track and visualize cholera outbreaks, enhancing public health response strategies.
-**R shiny, Epidemiology, Data wrangling and visualization**
+**Skills & Tools: R shiny, Epidemiology, Data wrangling and visualization**
 
 [Link to dashboard](https://pollanda.shinyapps.io/cholera_outbreak/)
 
@@ -32,21 +32,21 @@ Designed a cholera epidemiology surveillance dashboard using R to track and visu
 **Phylogenetic Analysis and Comparative Genomics**
 ![ClusterVenn](./assets/cluster-venn.png)
 Conducted comprehensive phylogenetic analysis and comparative genomics of *Puccinia graminis f.s.p* isolates, providing insights into their evolutionary relationships and pathogenicity.
-**Bash, FastQC, MultiQC, Fastp, Busco, Quast, Augustus, EggNog Mapper, Orthofinder, MAFFT, iTol, Fasttree, MuMmer, Snippy**
+**Tools: Bash, FastQC, MultiQC, Fastp, Busco, Quast, Augustus, EggNog Mapper, Orthofinder, MAFFT, iTol, Fasttree, MuMmer, Snippy**
 
 [Read more](https://github.com/Itsbosire/Phylo_Genomics)
 
 **MRSA Genome Assembly**
 ![MRSA](./assets/graph1.png)
 Stapled a complete genome assembly of Methicillin-resistant *Staphylococcus aureus* (MRSA) using Illumina sequencing data, enhancing understanding of its genetic makeup and resistance mechanisms.
-**FastQC, Fastp, Spades, Quast**
+**Tools: FastQC, Fastp, Spades, Quast**
 
 [Read more](https://github.com/Itsbosire/MRSA_Genome_Assembly)
 
 **MTB Variant Calling Pipeline**
 ![MTB](./assets/summarize_overall.png)
 Developed a robust NGS variant calling pipeline for *Mycobacterium tuberculosis* (MTB) using bash scripting, automating the analysis of sequencing data to identify genetic variants associated with drug resistance.
-**FastQC, MultiQC, Fastp, BWA, Samtools, freebayes**
+**Tools: FastQC, MultiQC, Fastp, BWA, Samtools, freebayes**
 
 [Read more](https://github.com/Itsbosire/MRSA_Genome_Assembly)
 
