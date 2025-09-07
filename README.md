@@ -24,6 +24,7 @@ I am a passionate biotechnologist, molecular biologist, and bioinformatician wit
 ![Overview](./assets/Cholera_project_overview.png)
 Designed a cholera epidemiology surveillance dashboard using R to track and visualize cholera outbreaks, enhancing public health response strategies.
 **R shiny, Epidemiology, Data wrangling and visualization**
+
 [Link to dashboard](https://pollanda.shinyapps.io/cholera_outbreak/)
 
 [Read more](https://github.com/Itsbosire/HackBio_Epidemiology_project)
