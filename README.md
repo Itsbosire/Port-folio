@@ -4,10 +4,10 @@
 
 ---
 **Biotechnologitst | Bioinformatician | Molecular Biologist**  
-  
+
 I am a passionate biotechnologist, molecular biologist, and bioinformatician with strong enthusiasm for bridging lab science and computational analysis. My work involves applying molecular tools, exploring genetic mechanisms, and using data-driven approaches to solve challenges in health, agriculture, and biotechnology.
 
-## Research Interests
+# Research Interests
 
 - Multi-omics data intergration and analysis
 - Genomics and Epdidemiology
@@ -15,12 +15,12 @@ I am a passionate biotechnologist, molecular biologist, and bioinformatician wit
 - Metagenomics
 - Agricultural Biotechnology
 
-### Education
+## Education
 
 - BSc in Biotechnology and Biosafety - University of Eldoret(2021 -2025)
 - Data Analytics - Holberton School(ALX Africa)(2025 - Present)
 
-#### Featured Projects
+## Featured Projects
 
 **Cholera Epidemiology Project**
 ![Overview](./assets/Cholera_project_overview.png)
@@ -54,7 +54,7 @@ Developed a robust NGS variant calling pipeline for *Mycobacterium tuberculosis*
 
 To view more of my projects, please visit my [GitHub profile](https://github.com/Itsbosire).
 
-#### Skills
+### Skills
 
 **Bioinformatics**: Genome Assembly, Variant Calling, Phylogenetics, Comparative Genomics, Molecular Docking, NGS Data Analysis, Sequence Alignment, Data Visualization
 
@@ -66,7 +66,7 @@ To view more of my projects, please visit my [GitHub profile](https://github.com
 
 **Soft Skills**: Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Time Management
 
-#### Contact Me
+### Contact Me
 
 I am always open to connecting with fellow researchers, professionals, and enthusiasts in the fields of biotechnology, molecular biology, and bioinformatics.
 Reach out to me via email, phone, or social media for collaborations, discussions, or opportunities.
