@@ -25,24 +25,28 @@ I am a passionate biotechnologist, molecular biologist, and bioinformatician wit
 Designed a cholera epidemiology surveillance dashboard using R to track and visualize cholera outbreaks, enhancing public health response strategies.
 **R shiny, Epidemiology, Data wrangling and visualization**
 [Link to dashboard](https://pollanda.shinyapps.io/cholera_outbreak/)
+
 [Read more](https://github.com/Itsbosire/HackBio_Epidemiology_project)
 
 **Phylogenetic Analysis and Comparative Genomics**
 ![ClusterVenn](./assets/cluster-venn.png)
 Conducted comprehensive phylogenetic analysis and comparative genomics of *Puccinia graminis f.s.p* isolates, providing insights into their evolutionary relationships and pathogenicity.
 **Bash, FastQC, MultiQC, Fastp, Busco, Quast, Augustus, EggNog Mapper, Orthofinder, MAFFT, iTol, Fasttree, MuMmer, Snippy**
+
 [Read more](https://github.com/Itsbosire/Phylo_Genomics)
 
 **MRSA Genome Assembly**
 ![MRSA](./assets/graph1.png)
 Stapled a complete genome assembly of Methicillin-resistant *Staphylococcus aureus* (MRSA) using Illumina sequencing data, enhancing understanding of its genetic makeup and resistance mechanisms.
 **FastQC, Fastp, Spades, Quast**
+
 [Read more](https://github.com/Itsbosire/MRSA_Genome_Assembly)
 
 **MTB Variant Calling Pipeline**
 ![MTB](./assets/summarize_overall.png)
 Developed a robust NGS variant calling pipeline for *Mycobacterium tuberculosis* (MTB) using bash scripting, automating the analysis of sequencing data to identify genetic variants associated with drug resistance.
 **FastQC, MultiQC, Fastp, BWA, Samtools, freebayes**
+
 [Read more](https://github.com/Itsbosire/MRSA_Genome_Assembly)
 
 To view more of my projects, please visit my [GitHub profile](https://github.com/Itsbosire).
@@ -50,9 +54,13 @@ To view more of my projects, please visit my [GitHub profile](https://github.com
 #### Skills
 
 **Bioinformatics**: Genome Assembly, Variant Calling, Phylogenetics, Comparative Genomics, Molecular Docking, NGS Data Analysis, Sequence Alignment, Data Visualization
+
 **Programming Languages**: Python, R, Bash
+
 **Laboratory Techniques**: PCR, Gel Electrophoresis, DNA/RNA Extraction, Spectrophotometry, Microscopy
+
 **Tools & Software**: Bioconductor, Galaxy, MEGA, AutoDock Vina , PyMOL, FastQC, Trimmomatic, BWA, SAMtools, GATK, IGV, RStudio, Git/GitHub,velvet, SPAdes, Prokka, BLAST, ClustalW, MAFFT,Orthofinder, IQ-TREE, FigTree, VMD, Discovery Studio
+
 **Soft Skills**: Problem-Solving, Critical Thinking, Communication, Teamwork, Adaptability, Time Management
 
 #### Contact Me
@@ -61,7 +69,13 @@ I am always open to connecting with fellow researchers, professionals, and enthu
 Reach out to me via email, phone, or social media for collaborations, discussions, or opportunities.
 
 [![email](https://img.shields.io/badge/bosirebrian499@gmail.com.com-blue?style=flat-square&logo=gmail)](mailto:bosirebrian499@gmail.com)
+
 [![phone](https://img.shields.io/badge/Phone-+254711308884-lightgrey?style=flat-square&logo=call)](tel:+254711308884)
+
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/Syre254)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Itsbosire)  
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Itsbosire)
+
+#### Location
+
 Eldoret , Kenya.
