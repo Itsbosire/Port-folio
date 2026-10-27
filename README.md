@@ -5,9 +5,9 @@
 ---
 **Biotechnologitst | Bioinformatician | Molecular Biologist**  
 
-I am a passionate biotechnologist, molecular biologist, and bioinformatician with strong enthusiasm for bridging lab science and computational analysis. My work involves applying molecular tools, exploring genetic mechanisms, and using data-driven approaches to solve challenges in health, agriculture, and biotechnology.
+I am a passionate biotechnologist, molecular biologist, and bioinformatician with strong enthusiasm for bridging lab science and computational analysis. My work involves applying molecular tools, exploring genetic mexchanisms, and using data-driven approaches to solve challenges in health, agriculture, and biotechnology.
 
-# Research Interests
+## Research Interests
 
 - Multi-omics data intergration and analysis
 - Genomics and Epdidemiology
@@ -71,7 +71,7 @@ To view more of my projects, please visit my [GitHub profile](https://github.com
 I am always open to connecting with fellow researchers, professionals, and enthusiasts in the fields of biotechnology, molecular biology, and bioinformatics.
 Reach out to me via email, phone, or social media for collaborations, discussions, or opportunities.
 
-[![email](https://img.shields.io/badge/bosirebrian499@gmail.com.com-blue?style=flat-square&logo=gmail)](mailto:bosirebrian499@gmail.com)
+[![Email](https://img.shields.io/badge/Email-bosirebrian499%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:bosirebrian499@gmail.com)
 
 [![phone](https://img.shields.io/badge/Phone-+254711308884-lightgrey?style=flat-square&logo=call)](tel:+254711308884)
 
@@ -82,3 +82,13 @@ Reach out to me via email, phone, or social media for collaborations, discussion
 #### Location
 
 Eldoret , Kenya.
+
+
+<!-- Email -->
+[<img src="./assets/image.png" width="30" alt="Email"/>](mailto:bosirebrian499@gmail.com) **Email**
+
+<!-- GitHub -->
+[<img src="assets/icons/github.png" width="30" alt="GitHub"/>](https://github.com/Itsbosire) **GitHub**
+
+<!-- LinkedIn -->
+[<img src="assets/icons/linkedin.png" width="30" alt="LinkedIn"/>](https://linkedin.com/in/your-profile) **LinkedIn**
