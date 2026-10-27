@@ -89,6 +89,3 @@ Eldoret , Kenya.
 
 <!-- GitHub -->
 [<img src="assets/icons/github.png" width="30" alt="GitHub"/>](https://github.com/Itsbosire) **GitHub**
-
-<!-- LinkedIn -->
-[<img src="assets/icons/linkedin.png" width="30" alt="LinkedIn"/>](https://linkedin.com/in/your-profile) **LinkedIn**
